@@ -1,0 +1,15 @@
+[submodule "Marlin"]
+	path = Marlin
+	url = git@github.com:MarlinFirmware/Marlin.git
+[submodule "lufa"]
+	path = lufa
+	url = git@github.com:abcminiuser/lufa.git
+[submodule "fake_arduino_install/libraries/LiquidCrystal"]
+	path = fake_arduino_install/libraries/LiquidCrystal
+	url = git@github.com:arduino-libraries/LiquidCrystal.git
+[submodule "teensy_libs"]
+	path = teensy_libs
+	url = git@github.com:PaulStoffregen/cores.git
+[submodule "fake_arduino_install/hardware/arduino/avr"]
+	path = fake_arduino_install/hardware/arduino/avr
+	url = git@github.com:arduino/ArduinoCore-avr.git

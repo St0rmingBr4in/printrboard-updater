@@ -3,6 +3,8 @@
 This allows to easily update the Solidoodle Motherboard rev-E based on the
 printrboard.
 
+![Solidoodle Motherboard rev-E](images/board.jpg)
+
 In theory this could be used to update any at90usb1286 based boards running
 lufa HID bootloader, but I only own the Solidoodle Motherboard rev-E so I only
 tested this on this board. It could also easily be modified to be compatible
@@ -29,7 +31,10 @@ with the CDC and DFU bootloaders.
 * Prepare your board for flashing
 
   Put a jumper accross the two boot pins near the microcontroller as follows:
+  ![Boot jumper](images/boot.jpg)
+
   Plug your board with the USB cable
+
   Push on the reset button on the board
 
 * Finally, you can flash your board with the following command:
@@ -70,6 +75,7 @@ with the CDC and DFU bootloaders.
 * Flash the firmware to your board
 
   Put a jumper accross the two boot pins near the microcontroller as follows:
+  ![Boot jumper](images/boot.jpg)
 
   Plug your board with the USB cable
   Push on the reset button

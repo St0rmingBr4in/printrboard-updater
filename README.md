@@ -14,7 +14,14 @@ with the CDC and DFU bootloaders.
 
 ## Using Docker (recommended)
 
-* First build the docker image
+* Clone the repo or download and extract the zip archive
+  ```
+  $ git clone --recursive git@github.com:St0rmingBr4in/printrboard-updater.git
+  ```
+
+* Install docker
+
+* Build the docker image
   ```
   $ docker build . -t printrboard-updater
   ```

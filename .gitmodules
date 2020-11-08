@@ -1,9 +1,9 @@
 [submodule "Marlin"]
 	path = Marlin
-	url = git@github.com:MarlinFirmware/Marlin.git
+	url = git@github.com:St0rmingBr4in/Marlin.git
 [submodule "lufa"]
 	path = lufa
-	url = git@github.com:abcminiuser/lufa.git
+	url = git@github.com:St0rmingBr4in/lufa.git
 [submodule "fake_arduino_install/libraries/LiquidCrystal"]
 	path = fake_arduino_install/libraries/LiquidCrystal
 	url = git@github.com:arduino-libraries/LiquidCrystal.git

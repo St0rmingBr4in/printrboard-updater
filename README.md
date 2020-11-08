@@ -14,7 +14,7 @@ with the CDC and DFU bootloaders.
 
 ## Using Docker (recommended)
 
-* Clone the repo or download and extract the zip archive
+* Clone the repo
   ```
   $ git clone --recursive git@github.com:St0rmingBr4in/printrboard-updater.git
   ```
